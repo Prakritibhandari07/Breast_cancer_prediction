@@ -1,6 +1,6 @@
 # 🎗️ Breast Cancer Prediction Using Deep Learning
 
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue) ![Deep Learning](https://img.shields.io/badge/Framework-TensorFlow%20%7C%20PyTorch-orange) ![License](https://img.shields.io/badge/License-MIT-green) ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue) ![Deep Learning](https://img.shields.io/badge/Framework-TensorFlow%20%7C%20PyTorch-orange)
 
 ## 📌 Overview
 
