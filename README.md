@@ -189,15 +189,8 @@ Contributions are welcome! Please:
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
 ## 📬 Contact
 
 For questions or collaboration, reach out via:
 - **Email**: prakritibhandari555@gmail.com
-- **GitHub Issues**: [Open an issue](https://github.com/Prakritibhandari07/breast-cancer-prediction/issues)
 
